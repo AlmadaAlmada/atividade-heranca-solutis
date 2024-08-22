@@ -1,4 +1,4 @@
-package heranca1.tipos.de.pessoas;
+package heranca.tipoDePessoas;
 
 public class Vendedor extends Empregado {
     private double valorVendas;

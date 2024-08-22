@@ -1,4 +1,4 @@
-package heranca1.tipos.de.pessoas;
+package heranca.tipoDePessoas;
 
 public class Administrador extends Empregado {
     private double ajudaDeCusto;
