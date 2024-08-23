@@ -42,28 +42,17 @@ O projeto é organizado em pacotes da seguinte forma:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/mundo-animal.git
+git clone https://github.com/seu-usuario/atividade-heranca-solutis.git
 ```
 
 2. **Navegue até o diretório do projeto:**
 
 ```bash
-   cd mundo-animal
+   cd atividade-heranca-solutis
 ````
 
 3. **Compile o projeto:**
 
-Utilize um ambiente de desenvolvimento Java, como o IntelliJ IDEA ou Eclipse, para compilar o projeto. Se preferir, você também pode usar o javac diretamente no terminal:
-
-```bash
-javac -d bin src/mundo/animal/*.java
-```
-4. **Execute o projeto:**
-
-Navegue até o diretório onde os arquivos .class estão localizados e execute o programa:
-
-```bash
-java mundoAnimal.Zoologico
-```
-
+ Utilize um ambiente de desenvolvimento Java, como o IntelliJ IDEA ou Eclipse, para 
+ compilar o projeto. 
 
