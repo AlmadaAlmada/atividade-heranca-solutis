@@ -56,3 +56,25 @@ git clone https://github.com/seu-usuario/atividade-heranca-solutis.git
  Utilize um ambiente de desenvolvimento Java, como o IntelliJ IDEA ou Eclipse, para 
  compilar o projeto. 
 
+## Estrutura do Arquivo
+
+```
+|-- src
+|    |-- heranca
+|        |-- main
+|        |    |-- Empresa.java             <- Classe principal que executa o programa.
+|        |
+|        |-- tipoDePessoas
+|             |-- Administrador.java       <- Classe que representa um administrador, herdando de Empregado.
+|             |-- Empregado.java           <- Classe que representa um empregado, herdando de Pessoa.
+|             |-- Fornecedor.java          <- Classe que representa um fornecedor, herdando de Pessoa.
+|             |-- Operario.java            <- Classe que representa um operário, herdando de Empregado.
+|             |-- Pessoa.java              <- Classe base com atributos comuns a todas as pessoas.
+|             |-- Vendedor.java            <- Classe que representa um vendedor, herdando de Empregado.
+|
+|-- README.md                              <- Arquivo de documentação do projeto.
+
+```
+## Licença
+
+Projeto desenvolvido para fins educacionais
